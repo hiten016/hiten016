@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
 
   <!-- Web Development -->
@@ -44,12 +44,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LangChain_logo.svg/320px-LangChain_logo.svg.png" alt="LangChain" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/B/bs4-logo-41F8CFC25D-seeklogo.com.png" alt="BeautifulSoup" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="huggingface"/>
 </p>
 
-<p><b>Other tools:</b> Ollama, LLMs, vLLM</p>
+---
+
+### 🧩 Other Tools & Interests
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-0052CC?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-0A66C2?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=beautifulsoup&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat&logo=openai&logoColor=white" />
+</p>
 
 ---
 
