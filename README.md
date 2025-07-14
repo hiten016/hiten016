@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **LLMs and Transformers**
 
-- 💬 Interested in **Machine Learning, NLP, Vision and LLMs**  
-  🏆 Competitive Programmer on Codeforces <br>
+- 💬 Interested in **Machine Learning, NLP, Vision**  
+  🏆 Competitive Programmer  
   🤝 Looking to collaborate on **ML research, development, and real-world ML-based projects**
 
-- 📫 reach me: **mahajan.hiten360@gmail.com**
+- 📫 How to reach me: **mahajan.hiten360@gmail.com**
 
 ---
 
@@ -44,7 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LangChain_logo.svg/320px-LangChain_logo.svg.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/B/bs4-logo-41F8CFC25D-seeklogo.com.png" alt="BeautifulSoup" width="40" height="40"/>
 </p>
+
+<p><b>Other tools:</b> Ollama, LLMs, vLLM</p>
 
 ---
 
