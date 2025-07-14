@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **LLMs and Transformers**
 
 - 💬 Interested in **Machine Learning, NLP, Vision and LLMs**  
-  🏆 Competitive Programmer on Codeforces
+  🏆 Competitive Programmer on Codeforces <br>
   🤝 Looking to collaborate on **ML research, development, and real-world ML-based projects**
 
 - 📫 reach me: **mahajan.hiten360@gmail.com**
@@ -44,10 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-</p>
-
-<p>
-  <b>Also working with:</b> Langchain, LlamaIndex, vLLM, BeautifulSoup, Ollama, LaTeX, Transformers, GANs, RNNs, LSTMs, GRUs, CNNs, and more.
 </p>
 
 ---
