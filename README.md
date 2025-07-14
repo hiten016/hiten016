@@ -12,7 +12,7 @@
 - 💬 Interested in **Machine Learning, NLP, Vision**  
   🏆 Competitive Programmer on Codeforces <br>
   
-  🤝 Looking to collaborate on **ML research, development, and real-world ML-based projects**
+  🤝 Looking to collaborate on **ML research, development, ML and Data Science projects**
 
 - 📫 How to reach me: **mahajan.hiten360@gmail.com**
 
