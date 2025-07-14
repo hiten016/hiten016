@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning **LLMs and Transformers**
 
 - 💬 Interested in **Machine Learning, NLP, Vision**  
-  🏆 Competitive Programmer on Codeforces
+  🏆 Competitive Programmer on Codeforces <br>
+  
   🤝 Looking to collaborate on **ML research, development, and real-world ML-based projects**
 
 - 📫 How to reach me: **mahajan.hiten360@gmail.com**
