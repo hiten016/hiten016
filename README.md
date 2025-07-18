@@ -69,7 +69,7 @@
 | 🔎 [Semantic Webcrawler](https://github.com/hiten016/Semantic-Webcrawler) | AI-powered webcrawler that semantically scrapes and clusters relevant information. | Transformers, Python, Web Scraping,DBSCAN |
 | 📄 [RAG + MCP QnA Agent](https://github.com/hiten016/RAG_MCP) |  Question Answering bot built using RAG that generates contextual replies to user input doc, txt, pdf and json files  | LangChain, Sentence-BERT, NLP |
 | 🫁 [Lung Disease Prediction](https://github.com/hiten016/Lung-Disease-Prediction) | Classification of chest X-rays using VGG19, DenseNet121, and MobileNetV2. | Transfer Learning, CNN, PyTorch |
-| 📷 [Image Caption Generator](https://github.com/hiten016/Image-Caption-Generator) | Generates image captions using CNN encoder and LSTM decoder. | PyTorch, CNN, LSTM |
+| 📷 [Image Caption Generator](https://github.com/hiten016/Image-Caption-Generator) | Generates image captions using CNN encoder and LSTM decoder. | PyTorch, Xception, LSTM |
 | 📅 [MeetScheduler AI](https://github.com/hiten016/MeetScheduler) | Agentic AI to automate meeting scheduling across time zones with conflict resolution. | vLLM, LangGraph, CrewAI |
 | 💻 [LMS Backend](https://github.com/hiten016/LMS) | Learning Management System backend with APIs for assignments, attendance, grading, etc. | Django REST Framework, Websockets |
 | 🔍 [Finetuning LLaMA 3 Model ](https://github.com/hiten016/Finetuning-LLAMA3.2-3B) | Implementation of PEFT finetuning on LLaMA 3.2B using Hugging Face and QLoRA. | Transformers, LLaMA 3.2B model, PEFT |
