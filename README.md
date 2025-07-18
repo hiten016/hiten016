@@ -65,7 +65,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 [Emotion-aware Chatbot](https://github.com/hiten016/Emotionaware-Chatbot) | Multilabel chatbot using BERT finetuned on GoEmotions + GPT for empathetic replies. | BERT, GPT, PCA, HuggingFace |
+| 🧠 [Emotion-aware Chatbot](https://github.com/hiten016/Emotionaware-Chatbot) | Multilabel chatbot using BERT finetuned on GoEmotions and GPT for empathetic replies. | BERT, GPT-2, PCA, HuggingFace |
 | 🔎 [Semantic Webcrawler](https://github.com/hiten016/Semantic-Webcrawler) | AI-powered webcrawler that semantically scrapes and clusters relevant information. | Transformers, Python, Web Scraping,DBSCAN |
 | 📄 [RAG + MCP QnA Agent](https://github.com/hiten016/RAG_MCP) |  Q&A Agent built using RAG that generates contextual replies to user input  | LangChain, Sentence-BERT, NLP |
 | 📼 [Video Summariser](https://github.com/hiten016/Video-Summariser) | Summarizes video transcripts using Transformer-based models. | Transformers, Summarizer, PyTube |
