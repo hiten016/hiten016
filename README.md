@@ -67,14 +67,13 @@
 |--------|-------------|------|
 | 🧠 [Emotion-aware Chatbot](https://github.com/hiten016/Emotionaware-Chatbot) | Multilabel chatbot using BERT finetuned on GoEmotions + GPT for empathetic replies. | BERT, GPT, PCA, HuggingFace |
 | 🔎 [Semantic Webcrawler](https://github.com/hiten016/Semantic-Webcrawler) | AI-powered webcrawler that semantically scrapes and clusters relevant information. | Transformers, Python, Web Scraping |
-| 📄 [RAG + MCP QnA Agent](https://github.com/hiten016/RAG_MCP) | Smart Q&A system combining Retrieval-Augmented Generation and Maximum Coverage optimization. | LangChain, Sentence-BERT, NLP |
+| 📄 [RAG + MCP QnA Agent](https://github.com/hiten016/RAG_MCP) |  Q&A Agent built using RAG that generates contextual replies to user input  | LangChain, Sentence-BERT, NLP |
 | 📼 [Video Summariser](https://github.com/hiten016/Video-Summariser) | Summarizes video transcripts using Transformer-based models. | Transformers, Summarizer, PyTube |
-| 🫁 [Lung Disease Prediction](https://github.com/hiten016/Lung-Disease-Prediction) | Multi-label classification of chest X-rays using VGG19, DenseNet121, and MobileNetV2. | Transfer Learning, CNN, PyTorch |
-| 📷 [Image Caption Generator](https://github.com/hiten016/Image-Caption-Generator) | Generates image captions using CNN encoder and LSTM decoder. | PyTorch, VGG16, LSTM |
+| 🫁 [Lung Disease Prediction](https://github.com/hiten016/Lung-Disease-Prediction) | Classification of chest X-rays using VGG19, DenseNet121, and MobileNetV2. | Transfer Learning, CNN, PyTorch |
+| 📷 [Image Caption Generator](https://github.com/hiten016/Image-Caption-Generator) | Generates image captions using CNN encoder and LSTM decoder. | PyTorch, CNN, LSTM |
 | 📅 [MeetScheduler AI](https://github.com/hiten016/MeetScheduler) | Agentic AI to automate meeting scheduling across time zones with conflict resolution. | vLLM, LangGraph, CrewAI |
-| 💻 [LMS Backend](https://github.com/hiten016/LMS) | Learning Management System backend with APIs for assignments, attendance, grading, etc. | Django REST Framework, PostgreSQL |
-| 🚘 [Car Details Management](https://github.com/hiten016/Car-Details-Management) | DBMS project managing car owner and vehicle details through a CRUD interface. | SQL, Python, Tkinter |
-| 🔍 [Finetuning LLaMA 3](https://github.com/hiten016/Finetuning-LLAMA3.2-3B) | Implementation of PEFT finetuning on LLaMA 3.2B using Hugging Face + DPO/QLoRA. | Transformers, LLaMA, PEFT |
+| 💻 [LMS Backend](https://github.com/hiten016/LMS) | Learning Management System backend with APIs for assignments, attendance, grading, etc. | Django REST Framework, Websockets |
+| 🔍 [Finetuning LLaMA 3 Model ](https://github.com/hiten016/Finetuning-LLAMA3.2-3B) | Implementation of PEFT finetuning on LLaMA 3.2B using Hugging Face and QLoRA. | Transformers, LLaMA 3.2B model, PEFT |
 
 
 ### 📊 GitHub Stats
