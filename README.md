@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CIFAR-10 Dataset** and **Vision-based Disease Detection**
 - 🌱 I’m currently learning **LLMs and Transformers**
-- 💬 Interested in **Machine Learning, NLP, Vision**  
+- 💬 I have built projects in **Machine Learning, NLP, Vision**   
 - 🏆 Competitive Programmer on **Codeforces**  
 - 🤝 Looking to collaborate on **ML research, development, ML, and Data Science projects**
 - 📫 How to reach me: **mahajan.hiten360@gmail.com**
