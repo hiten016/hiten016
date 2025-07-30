@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **LLMs and Transformers**
 - 💬 I have built projects in **Machine Learning, NLP, Vision**   
 - 🏆 Pupil Rated on **Codeforces**  
-- 🤝 Looking to collaborate on **ML research and Data Science projects**
+- 🤝 Looking to collaborate on **Backend and Data Science projects**
 - 📫 How to reach me: **mahajan.hiten360@gmail.com**
 
 ---
