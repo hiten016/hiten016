@@ -10,13 +10,13 @@
 - 🔭 I’m currently working on **CIFAR-10 Dataset** and **Vision-based Disease Detection**
 - 🌱 I’m currently learning **LLMs and Transformers**
 - 💬 I have built projects in **Machine Learning, NLP, Vision**   
-- 🏆 Competitive Programmer on **Codeforces**  
-- 🤝 Looking to collaborate on **ML research, development, ML, and Data Science projects**
+- 🏆 Pupil Rated on **Codeforces**  
+- 🤝 Looking to collaborate on **ML research and Data Science projects**
 - 📫 How to reach me: **mahajan.hiten360@gmail.com**
 
 ---
 
-### 🚀 Languages and Tools
+###  Technical Skills
 
 <p align="center">
   <!-- Programming Languages -->
@@ -44,7 +44,7 @@
 
 ---
 
-### 🧩 Other Tools & Interests
+### 🧩 Others 
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-0052CC?style=flat&logo=databricks&logoColor=white" />
