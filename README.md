@@ -60,22 +60,17 @@
 
 ---
 
-## 🚀 Projects
+### 📊 GitHub Stats and Trophies
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 [Emotion-aware Chatbot](https://github.com/hiten016/Emotionaware-Chatbot) | Multilabel chatbot using BERT finetuned on GoEmotions and GPT for empathetic replies. | BERT, GPT-2, PCA, HuggingFace |
-| 🔎 [Semantic Webcrawler](https://github.com/hiten016/Semantic-Webcrawler) | AI-powered webcrawler that semantically scrapes and clusters relevant information. | Transformers, Python, Web Scraping, DBSCAN |
-| 📄 [RAG + MCP QnA Agent](https://github.com/hiten016/RAG_MCP) | Question Answering bot using RAG on doc, txt, PDF, and JSON inputs. | LangChain, Sentence-BERT, NLP |
-| 🫁 [Lung Disease Prediction](https://github.com/hiten016/Lung-Disease-Prediction) | Chest X-ray classifier using VGG19, DenseNet121, and MobileNetV2. | Transfer Learning, CNN, PyTorch |
-| 📷 [Image Caption Generator](https://github.com/hiten016/Image-Caption-Generator) | Generates image captions using CNN encoder and LSTM decoder. | PyTorch, Xception, LSTM |
-| 💻 [LMS Backend](https://github.com/hiten016/LMS) | Backend for a Learning Management System with assignment and grading APIs. | Django REST Framework, Websockets |
-| 🔍 [Finetuning LLaMA 3 Model](https://github.com/hiten016/Finetuning-LLAMA3.2-3B) | PEFT finetuning of LLaMA 3.2B with Hugging Face and QLoRA. | Transformers, LLaMA, PEFT |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiten016&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiten016&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiten016&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hiten016&theme=monokai&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiten016&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
