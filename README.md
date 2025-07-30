@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 I’m currently working on **CIFAR-10 Dataset** and **Vision-based Disease Detection**
-- 🌱 I’m currently learning **LLMs and Transformers**
-- 💬 I have built projects in **Machine Learning, NLP, Vision**   
-- 🏆 Pupil Rated on **Codeforces**  
-- 🤝 Looking to collaborate on **Backend and Data Science projects**
-- 📫 How to reach me: **mahajan.hiten360@gmail.com**
+-   I’m currently working on **CIFAR-10 Dataset** and **Vision-based Disease Detection**
+-   I’m currently learning **Backend Dev **
+-   I have built projects in **Machine Learning, NLP, Vision**   
+-   Pupil Rated on **Codeforces**  
+-   Looking to collaborate on **Backend and Data Science projects**
+-   How to reach me: **mahajan.hiten360@gmail.com**
 
 ---
 
