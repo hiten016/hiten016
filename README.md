@@ -58,20 +58,15 @@
 
 ### 📊 GitHub Stats and Trophies
 
+### 📊 GitHub Stats and Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiten016&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiten016&show_icons=true&theme=dracula" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hiten016&theme=monokai&no-frame=true&title=Commit,Repositories,Followers,Stars,PullRequest,Issues&column=3" width="48%" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiten016&theme=dracula" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiten016&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiten016&theme=monokai&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiten016&layout=compact&theme=dracula" width="40%" alt="Top Languages" />
 </p>
 
 ---
