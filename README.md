@@ -1,39 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hiten Mahajan</h1>
-<h3 align="center">Interested in Core ML, Data Science, Competitive Programming, and Systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiten016&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
--   I’m currently working on **CIFAR-10 Dataset** and **Vision-based Disease Detection**
--   I’m currently learning **Backend Dev **
--   I have built projects in **Machine Learning, NLP, Vision**   
--   Pupil Rated on **Codeforces**  
--   Looking to collaborate on **Backend and Data Science projects**
--   How to reach me: **mahajan.hiten360@gmail.com**
+- 🔭 I’m currently working on **CIFAR-10 Dataset** and **Vision-based Disease Detection**
+- 🌱 I’m currently learning **Backend Dev**
+- 💼 I have built projects in **Machine Learning, NLP, Vision**
+- 🤖 Pupil Rated on **Codeforces**
+- 🤝 Looking to collaborate on **Backend and Data Science projects**
+- 📫 How to reach me: **mahajan.hiten360@gmail.com**
 
 ---
 
-###  Technical Skills
+### 🧠 Technical Skills
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-
-  <!-- Libraries & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
-
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-
-  <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
@@ -44,7 +32,7 @@
 
 ---
 
-### 🧩 Others 
+### 🧩 Others
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-0052CC?style=flat&logo=databricks&logoColor=white" />
@@ -56,17 +44,25 @@
 
 ---
 
-
-###  GitHub Stats 
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiten016&show_icons=true&theme=dracula" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiten016&layout=compact&theme=dracula" width="48%" alt="Top Languages" />
 </p>
 
+---
+
+### 🔝 Top Contributed Repos
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiten016&theme=monokai&no-frame=true&title=Commit,Repositories,Followers,Stars,PullRequest,Issues&column=6" alt="GitHub Trophies" />
+  <img src="https://github.com/hiten016/hiten016/assets/your-uploaded-image-path/c4b99884-2803-42bd-a571-34bbeef7e1cb" width="600" />
 </p>
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hiten016&theme=monokai&no-frame=true&title=Commit,Repositories,Followers,Stars,PullRequest,Issues&column=6" alt="GitHub Trophies" />
+</p>
