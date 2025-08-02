@@ -53,13 +53,6 @@
 
 ---
 
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiten016/hiten016/main/top-repos.png" width="600" />
-</p>
-
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
