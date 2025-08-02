@@ -56,10 +56,9 @@
 ### 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github.com/hiten016/hiten016/assets/your-uploaded-image-path/c4b99884-2803-42bd-a571-34bbeef7e1cb" width="600" />
+  <img src="https://raw.githubusercontent.com/hiten016/hiten016/main/top-repos.png" width="600" />
 </p>
 
----
 
 ### 🏆 GitHub Trophies
 
